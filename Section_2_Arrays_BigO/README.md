@@ -1,22 +1,22 @@
 # Arrays and Big O Notation
-Big O time complexity graph
+1. Big O time complexity graph
 https://en.wikipedia.org/wiki/Big_O_notation#/media/File:Comparison_computational_complexity.svg
 
-time complexity - the number of steps to run an algorithm
+* time complexity - the number of steps to run an algorithm
 
-We measure using worst case scenario
+* We measure using worst case scenario
 
-The main Big O time complexities covered in this course: (in order from fast to slow)
-	1) O(1) which is constanct time
-	2) O(logn) Logarithmic base 2
-	3) O(n) Linear
-	4) O(nlogn) n log-star n
-	5) O(n^2) Quadratic
+* The main Big O time complexities covered in this course: (in order from fast to slow)
+	1.  O(1) which is constanct time
+	2. O(logn) Logarithmic base 2
+	3. O(n) Linear
+	4. O(nlogn) n log-star n
+	5. O(n^2) Quadratic
 
 
-pronounced "o of 1" or "o of n"
+* pronounced "o of 1" or "o of n"
 
-Arrays are stored in one contiguous block in memory
+2. Arrays are stored in one contiguous block in memory
 
 ARRAYS AS A DATA STRUCTURE:
 * contiguous block of memory
